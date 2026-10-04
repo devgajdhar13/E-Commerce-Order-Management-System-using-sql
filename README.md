@@ -489,41 +489,6 @@ Priya Patel  →   9000.00 → Rank 4
 
 ---
 
-# 📸 Project Screenshots
-
-All screenshots are organized in the `Screenshots/` directory.
-
-### Database & CRUD
-![Primary and Foreign Keys](Screenshots/01_primary_and_foreign_keys.png)
-
-![CRUD Operations](Screenshots/02_crud_operations.png)
-
-### Querying & Joins
-![SQL Operators](Screenshots/03_sql_operators.png)
-
-![Joins A](Screenshots/04_joins_a.png)
-
-![Joins B](Screenshots/05_joins_b.png)
-
-### Data Analysis
-![Sorting and Grouping](Screenshots/06_sorting_and_grouping.png)
-
-![Aggregate Functions](Screenshots/07_aggregate_functions.png)
-
-![SQL Clauses](Screenshots/08_sql_clauses.png)
-
-![Subqueries](Screenshots/09_subqueries.png)
-
-### Advanced SQL
-![CASE Expression](Screenshots/10_case_expression.png)
-
-![Date and Time Functions](Screenshots/11_date_time_functions.png)
-
-![String Functions](Screenshots/12_string_functions.png)
-
-![Window Functions](Screenshots/13_window_functions.png)
-
----
 
 # 📁 Recommended Repository Structure
 
