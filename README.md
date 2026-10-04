@@ -144,7 +144,7 @@ The database is created as `ecommerce_db` and selected before the tables are cre
 
 ---
 
-# ⚙️ SQL Concepts Demonstrated
+# ⚙️ SQL OUTPUT Screenshorts
 
 ## 🔐 1. Primary Keys & Foreign Keys
 
