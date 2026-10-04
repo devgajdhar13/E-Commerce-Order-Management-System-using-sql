@@ -159,7 +159,7 @@ REFERENCES Customers(customer_id)
 
 Screenshot:
 
-![Primary and Foreign Keys](Screenshots/primary_&_foreign.png)
+![Primary and Foreign Keys](Screenshorts/primary_&_foreign.png)
 
 ---
 
@@ -176,7 +176,7 @@ The script includes product/customer insertion, an order transaction, a stock up
 
 Screenshot:
 
-![CRUD Operations](Screenshots/implement_curd_operations.png)
+![CRUD Operations](Screenshorts/implement_curd_operations.png)
 
 ---
 
@@ -196,7 +196,7 @@ WHERE status <> 'Cancelled';
 
 Screenshot:
 
-![SQL Operators](Screenshots/apply_sql_operators.png)
+![SQL Operators](Screenshorts/apply_sql_operators.png)
 
 ---
 
@@ -222,9 +222,9 @@ The project also uses joins to combine orders with customers and payments with o
 
 Screenshots:
 
-![Joins A](Screenshots/A_implement_joinns.png)
+![Joins A](Screenshorts/A_implement_joinns.png)
 
-![Joins B](Screenshots/B_implement_joinns.png)
+![Joins B](Screenshorts/B_implement_joinns.png)
 
 ---
 
@@ -251,7 +251,7 @@ HAVING COUNT(o.order_id) > 3;
 
 Screenshot:
 
-![Sorting and Grouping](Screenshots/sorting_&_grouping_data.png)
+![Sorting and Grouping](Screenshorts/sorting_&_grouping_data.png)
 
 ---
 
@@ -279,7 +279,7 @@ The executed result contains 10 non-cancelled orders, with a biggest order of `1
 
 Screenshot:
 
-![Aggregate Functions](Screenshots/use_aggregat_function.png)
+![Aggregate Functions](Screenshorts/use_aggregat_function.png)
 
 ---
 
@@ -301,7 +301,7 @@ These clauses are combined to build practical business queries.
 
 Screenshot:
 
-![SQL Clauses](Screenshots/sql_case_expression.png)
+![SQL Clauses](Screenshorts/sql_case_expression.png)
 
 ---
 
@@ -328,7 +328,7 @@ The query identifies `Smartphone` and `Smart Watch` as products with no order-it
 
 Screenshot:
 
-![Subqueries](Screenshots/use_subqueries.png)
+![Subqueries](Screenshorts/use_subqueries.png)
 
 ---
 
@@ -360,7 +360,7 @@ The executed results classify customers into Gold/Silver/Bronze and products int
 
 Screenshot:
 
-![CASE Expression](Screenshots/sql_case_expression.png)
+![CASE Expression](Screenshorts/sql_case_expression.png)
 
 ---
 
@@ -390,7 +390,7 @@ The executed query calculates delivery durations for completed shipments. fil
 
 Screenshot:
 
-![Date and Time Functions](Screenshots/date_time_function.png)
+![Date and Time Functions](Screenshorts/date_time_function.png)
 
 ---
 
@@ -416,7 +416,7 @@ This query cleans customer names and converts missing/blank emails into `Not Pro
 
 Screenshot:
 
-![String Functions](Screenshots/string_manipulation_function.png)
+![String Functions](Screenshorts/string_manipulation_function.png)
 
 ---
 
@@ -440,7 +440,7 @@ The project also calculates cumulative monthly revenue and a running order count
 
 Screenshot:
 
-![Window Functions](Screenshots/window_function.png)
+![Window Functions](Screenshorts/window_function.png)
 
 ---
 
